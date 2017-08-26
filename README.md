@@ -1,2 +1,3 @@
-# acy
+# we-activity
+
 a activity template
